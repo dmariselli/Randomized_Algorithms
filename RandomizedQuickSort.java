@@ -1,3 +1,8 @@
+/* Example of a Las Vegas Algorithm
+* Always gives correct solution, 
+* but running time is dependent on the random variable.
+*/
+
 import java.util.Random;
 
 public class RandomizedQuickSort {

@@ -1,3 +1,8 @@
+/* Example of Verifying Matrix-Multiplication
+* May produce incorrect solutions,
+* but has a fixed deterministic running time.
+*/
+
 import java.util.Random;
 
 public class MatrixMultiplication {
